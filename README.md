@@ -90,7 +90,7 @@ We added a lil’ spice using Excel formulas:
 ## Author
 
 Made with Excel and too much caffeine by Kuheli  
-Let’s connect: [LinkedIn](#https://www.linkedin.com/in/kuheli-sen123/)
+Let’s connect: [LinkedIn](https://www.linkedin.com/in/kuheli-sen123/)
 
 ---
 
