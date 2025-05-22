@@ -87,6 +87,10 @@ We added a lil’ spice using Excel formulas:
 
 ---
 
+- Screenshot:
+  
+
+
 ## Author
 
 Made with Excel and too much caffeine by Kuheli  
