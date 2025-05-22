@@ -87,7 +87,7 @@ We added a lil’ spice using Excel formulas:
 
 ---
 
-- Screenshot: https://github.com/kuhu01/Sales_Report_Analysis/blob/main/Report_.png
+- Screenshot: ![Dashboard Preview](https://github.com/kuhu01/Sales_Report_Analysis/blob/main/Report_.png)
   
 
 
