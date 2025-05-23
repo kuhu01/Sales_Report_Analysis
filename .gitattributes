@@ -1,2 +1,2 @@
-# Treat .mylang files as Excel
-*.xlsx linguist-language=Excel
+# Treat .csv files as "Excel" 
+*.csv linguist-language=Excel
