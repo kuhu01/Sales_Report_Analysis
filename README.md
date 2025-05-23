@@ -1,10 +1,10 @@
-# 📊 Sales Report Analysis – Vrinda Store (Excel Edition)
+# Sales Report Analysis – Vrinda Store
  
 This repository holds a comprehensive **Sales Report Analysis** using **Microsoft Excel**, based on a fictional dataset called **Vrinda Store**. The project showcases full-cycle data handling: from cleaning to processing, and finally presenting insights through vibrant dashboards and charts.
 
 ---
 
-## 📁 Dataset Overview
+## Dataset Overview
 
 The dataset includes sales records with the following columns:
 
@@ -41,10 +41,10 @@ Each row represents a transaction made in the Vrinda Store.
 
 All the cleanup, powered by Excel formulas and filters:
 
-- ✅ Removed duplicates using Replace
-- ✅ Deleted blank or null rows
-- ✅ Cleaned inconsistent data (e.g., misspelled states, extra spaces)
-- ✅ Added column like `month` and `Age Group` columns
+- Removed duplicates using Replace
+- Deleted blank or null rows
+- Cleaned inconsistent data (e.g., misspelled states, extra spaces)
+- Added column like `month` and `Age Group` columns
 
 > Tools used:`IF()`, filters, formatting
 
@@ -92,8 +92,6 @@ We added a lil’ spice using Excel formulas:
 
 
 ## Author
-
-Made with Excel and too much caffeine by Kuheli  
 Let’s connect: [LinkedIn](https://www.linkedin.com/in/kuheli-sen123/)
 
 ---
