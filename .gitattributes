@@ -1,0 +1,2 @@
+# Treat .mylang files as Excel
+*.mylang linguist-language=Excel
